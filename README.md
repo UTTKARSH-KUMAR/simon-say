@@ -38,5 +38,5 @@ Feel free to explore the game, and I appreciate any feedback or suggestions for 
 ## Acknowledgments
 I would like to express my gratitude to Shradha Khapra didi for their invaluable guidance and support throughout the development of this project. Their mentorship played a crucial role in my learning journey.
 
-### Connect with [Mentor's Name]
+### Connect with Shradha Khapra
 - [LinkedIn](https://www.linkedin.com/in/shradha-khapra/)
